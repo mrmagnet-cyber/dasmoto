@@ -1,0 +1,39 @@
+.dasmoto{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./img/cimg\ 1.jpeg);
+}
+.dasmoto1{
+    position: absolute;
+}
+.img1{
+    width: 100%;
+    height: 250px;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brush1 {
+    background-color: mediumspringgreen;
+}
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+.frames1{
+    background-color: lightcoral;
+}
+
+.paint1{
+    background-color: skyblue;
+}
