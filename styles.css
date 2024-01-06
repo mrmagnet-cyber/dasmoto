@@ -2,7 +2,7 @@
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
-    color: khaki;
+    color: blue;
     text-align: center;
     background-image: url(./img/cimg\ 1.jpeg);
 }
@@ -22,7 +22,7 @@ h1{
 }
 
 .brush1 {
-    background-color: mediumspringgreen;
+    background-color: black;
 }
 span{
     font-family: Helvetica;
@@ -31,9 +31,9 @@ span{
 }
 
 .frames1{
-    background-color: lightcoral;
+    background-color: black;
 }
 
 .paint1{
-    background-color: skyblue;
+    background-color: black;
 }
